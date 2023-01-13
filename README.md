@@ -34,6 +34,9 @@ com o nome BAA. </p>
 e Canadá, com 30 franquias no total, sendo 29 equipes nos Estados Unidos e 1
 representando o Canadá, a Toronto Raptors.  </p>
 
+![image](https://user-images.githubusercontent.com/112409145/212428169-a221cc70-ebc6-4b19-aa65-8ee554d3fbed.png)
+
+
 <h2>FERRAMENTAS UTILIZADAS:</h2>
 
  <p>✦MySQL Workbench </p>

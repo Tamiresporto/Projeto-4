@@ -42,6 +42,7 @@ representando o Canadá, a Toronto Raptors.  </p>
  <p>✦MySQL Workbench </p>
  <p>✦PowerBi </p>
  <p>✦Github </p>
+ <p>✦Canva</p>
  
 <hr>
 <h3> Modelo Relacional </h3>

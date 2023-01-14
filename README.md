@@ -42,6 +42,13 @@ representando o Canadá, a Toronto Raptors.  </p>
  <p>✦MySQL Workbench </p>
  <p>✦PowerBi </p>
  <p>✦Github </p>
+ 
+<hr>
+<h3> Modelo Relacional </h3>
 
-<h3> STATUS: </h3>
- <p>Em andamento. </p>
+<h4>O Modelo Relacional sobre seus antecessores é a
+representação simples dos dados e a facilidade com que consultas complexas podem ser
+expressas. Antes da estrutarar o banco de dados por boas práticas de programação deve-se fazer um modelo db.<h4>
+
+
+![image](https://user-images.githubusercontent.com/112409145/212447594-3adab772-77f7-4ada-939d-9a1ff1f20e85.png)

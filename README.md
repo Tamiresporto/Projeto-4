@@ -75,4 +75,20 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 ![image](https://user-images.githubusercontent.com/112409145/212448245-08b8f9cc-6a24-4991-95ab-5793006a7623.png)
 
+ <hr>
+ 
+ <h3>Gráficos</h3>
+ 
+ <h4>Após a realização da extração da documetação e realizada as consultas, importamos as consultas para o Power Bi para modelagem dos gráficos. Os gráficos são extremamente importante para uma vizualização mais ampla dos dados, atrativo para o endentimento de qualquer pessoa e uma estrutura básica para apresentações. </h4>
+ 
+ ![image](https://user-images.githubusercontent.com/112409145/212448770-82a321f1-dd9d-4b52-b645-07b69516f33d.png)
+
+ ![image](https://user-images.githubusercontent.com/112409145/212448776-325f9f7b-aaf9-41ad-9f80-3ca050cd1852.png)
+
+ ![image](https://user-images.githubusercontent.com/112409145/212448790-f381395d-6137-4ed7-8c75-d30291854482.png)
+
+ ![image](https://user-images.githubusercontent.com/112409145/212448803-262782e4-2a73-4d4d-a782-45792b99eb63.png)
+
+ 
+ 
 

@@ -52,3 +52,27 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 
 ![image](https://user-images.githubusercontent.com/112409145/212447594-3adab772-77f7-4ada-939d-9a1ff1f20e85.png)
+
+<h3>Consultas</h3>
+
+<h4>Na documentação foi realizado a extração das informação, que seria necessárias para construção do nosso db, com isto o squad construiu as consultas para que o banco de dados realizasse o retorno.</h4>
+
+★ Ano de Fundação(times mais antigos)
+
+★ Derrotas (Top 10 dos times com derrotas na data de classificação 24/02/2020)
+
+★ Vitórias(Times com mais vitórias)
+
+★ Vitórias fora de casa(Top 6 Times com mais vitórias fora de casa)
+
+<h3>Retorno das Consultas</h3>
+
+![image](https://user-images.githubusercontent.com/112409145/212448205-b4f70392-0a84-45dd-9109-e67bae07c248.png)
+
+![image](https://user-images.githubusercontent.com/112409145/212448213-a6842d07-d42f-4c4f-b2f2-c00a20ff1d8d.png)
+
+![image](https://user-images.githubusercontent.com/112409145/212448236-e8f7c38f-19b8-468c-8f3f-833d3743f265.png)
+
+![image](https://user-images.githubusercontent.com/112409145/212448245-08b8f9cc-6a24-4991-95ab-5793006a7623.png)
+
+

@@ -96,7 +96,4 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 <h1>🖥️⛹ Sobre a Equipe<h1>
 
-<img width=160% src="IMG/nbagp.png"/>
- 
- 
-
+<img width=250% src="IMG/nbagp.png"/>

@@ -5,7 +5,7 @@ no conjunto de dados que nos foi disponibilizado
 pela Resilia. Após escolher qual tema, iremos analisar
 e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 
-<h2> PASSO A PASSO E REQUISITOS: </h2>
+<h2> 📢  PASSO A PASSO E REQUISITOS: </h2>
 
  <p> ✦ Ideação/Brainstorm sobre perguntas que podem ser
 respondidas pelos dados: Análise o conjunto de dados
@@ -37,7 +37,7 @@ representando o Canadá, a Toronto Raptors.  </p>
 ![image](https://user-images.githubusercontent.com/112409145/212428169-a221cc70-ebc6-4b19-aa65-8ee554d3fbed.png)
 
 
-<h2>FERRAMENTAS UTILIZADAS:</h2>
+<h2>🛠 FERRAMENTAS UTILIZADAS:</h2>
 
  <p>✦MySQL Workbench </p>
  <p>✦PowerBi </p>
@@ -45,7 +45,7 @@ representando o Canadá, a Toronto Raptors.  </p>
  <p>✦Canva</p>
  
 <hr>
-<h3> Modelo Relacional </h3>
+<h1> Modelo Relacional </h1>
 
 <h4>O Modelo Relacional sobre seus antecessores é a
 representação simples dos dados e a facilidade com que consultas complexas podem ser
@@ -54,7 +54,9 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 ![image](https://user-images.githubusercontent.com/112409145/212447594-3adab772-77f7-4ada-939d-9a1ff1f20e85.png)
 
-<h3>Consultas</h3>
+<hr>
+
+<h1> 📝Consultas</h1>
 
 <h4>Na documentação foi realizado a extração das informação, que seria necessárias para construção do nosso db, com isto o squad construiu as consultas para que o banco de dados realizasse o retorno.</h4>
 
@@ -66,7 +68,7 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 ★ Vitórias fora de casa(Top 6 Times com mais vitórias fora de casa)
 
-<h3>Retorno das Consultas</h3>
+<h1>Retorno das Consultas</h1>
 
 ![image](https://user-images.githubusercontent.com/112409145/212448205-b4f70392-0a84-45dd-9109-e67bae07c248.png)
 
@@ -78,7 +80,7 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
  <hr>
  
- <h3>Gráficos</h3>
+ <h1>📊 Gráficos</h1>
  
  <h4>Após a realização da extração da documetação e realizada as consultas, importamos as consultas para o Power Bi para modelagem dos gráficos. Os gráficos são extremamente importante para uma vizualização mais ampla dos dados, atrativo para o endentimento de qualquer pessoa e uma estrutura básica para apresentações. </h4>
  
@@ -89,7 +91,12 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
  ![image](https://user-images.githubusercontent.com/112409145/212448790-f381395d-6137-4ed7-8c75-d30291854482.png)
 
  ![image](https://user-images.githubusercontent.com/112409145/212448803-262782e4-2a73-4d4d-a782-45792b99eb63.png)
+ 
+ <hr>
 
+<h1>🖥️⛹ Sobre a Equipe<h1>
+
+<img width=160% src="IMG/nbagp.png"/>
  
  
 

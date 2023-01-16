@@ -80,8 +80,10 @@ Denver Nuggets,
 Minnesota Timberwolves,
 Portland Trail Blazers,
 Oklahoma City Thunder,
-Utah Jazz,
-Divisão do Pacífico,
+Utah Jazz
+<hr>
+Divisão do Pacífico :
+
 Golden State Warriors,
 Los Angeles Clippers,
 Los Angeles Lakers,

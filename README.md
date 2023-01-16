@@ -151,7 +151,7 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
  ![image](https://user-images.githubusercontent.com/112409145/212448776-325f9f7b-aaf9-41ad-9f80-3ca050cd1852.png)
 
- ![image](https://user-images.githubusercontent.com/112409145/212448790-f381395d-6137-4ed7-8c75-d30291854482.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/112409145/212680625-948c3af0-0394-4bc5-86e7-42b3b070ce5d.jpg)
 
  ![image](https://user-images.githubusercontent.com/112409145/212448803-262782e4-2a73-4d4d-a782-45792b99eb63.png)
  

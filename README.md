@@ -36,7 +36,58 @@ representando o Canadá, a Toronto Raptors.  </p>
 
 ![image](https://user-images.githubusercontent.com/112409145/212428169-a221cc70-ebc6-4b19-aa65-8ee554d3fbed.png)
 
+Como funciona a NBA?
 
+Os 30 times da NBA são divididos entre duas conferências: Leste e Oeste. Ou seja, as equipes são distribuídas de acordo com sua localização geográfica. Cada conferência tem 15 equipes, que compõem três divisões com cinco representantes.
+
+Conferência Leste :
+
+A Conferência Leste da NBA conta com a Divisão do Atlântico, a Divisão Central e a Divisão Sudeste. As 15 equipes dessa conferência são divididas da seguinte forma:
+
+Divisão do Atlântico :
+Boston Celtics
+Brooklyn Nets
+New York Knicks
+Philadelphia 76ers
+Toronto Raptors
+Divisão Central
+Chicago Bulls
+Cleveland Cavaliers
+Detroit Pistons
+Indiana Pacers
+Milwaukee Bucks
+Divisão Sudeste
+Atlanta Hawks
+Charlotte Hornets
+Miami Heat
+Orlando Magic
+Washington Wizards
+<br>
+
+Conferência Oeste :
+
+Na Conferência Oeste da NBA, estão as equipes da Divisão Noroeste, Divisão do Pacífico e Divisão Sudoeste.
+
+Divisão Noroeste
+Denver Nuggets
+Minnesota Timberwolves
+Portland Trail Blazers
+Oklahoma City Thunder
+Utah Jazz
+Divisão do Pacífico
+Golden State Warriors
+Los Angeles Clippers
+Los Angeles Lakers
+Phoenix Suns
+Sacramento Kings
+Divisão Sudoeste
+Dallas Mavericks
+Houston Rockets
+Memphis Grizzlies
+New Orleans Pelicans
+San Antonio Spurs
+
+<hr>
 <h2>🛠 FERRAMENTAS UTILIZADAS:</h2>
 
  <p>✦MySQL Workbench </p>

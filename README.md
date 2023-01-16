@@ -159,24 +159,25 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 <img width=250% src="IMG/nbagp.png"/>
 
-Links:
+<p> Links:</p>
 
-Tais:
-Linkdin - https://www.linkedin.com/in/taiscampos-webdev
-Github - https://github.com/TaisC468
+<h2>Tais: </h2>
+<p> Linkdin - https://www.linkedin.com/in/taiscampos-webdev </p>
+<p>Github - https://github.com/TaisC468</p> </br>
 
-Tamires:
-Linkdin - https://www.linkedin.com/in/tamires-porto
-Github - https://github.com/Tamiresporto
+<h2>Tamires:</h2>
+<p>Linkdin - https://www.linkedin.com/in/tamires-porto </p>
+<p>Github - https://github.com/Tamiresporto </p> 
 
-Ronald:
-Linkdin - https://www.linkedin.com/in/ronald-da-silva-b70752248
-Github - https://github.com/Ronald-02
+<h2>Ronald:</h2>
+<p>Linkdin - https://www.linkedin.com/in/ronald-da-silva-b70752248 </p>
+<p>Github - https://github.com/Ronald-02 </p>
 
-Suanny:
-Linkdin - https://www.linkedin.com/in/suannyrodriguessantos
-Github - https://github.com/suannyrodrigues
+<h2>Suanny:</h2>
+<p>Linkdin - https://www.linkedin.com/in/suannyrodriguessantos </p>
+<p>Github - https://github.com/suannyrodrigues </p>
 
-Silvia:
-Linkdin - https://www.linkedin.com/in/silvia-corr%C3%AAa-b78197251
-Github - https://github.com/scorrea03
+<h2>Silvia:</h2>
+<p>Linkdin - https://www.linkedin.com/in/silvia-corr%C3%AAa-b78197251 <p>
+<p>Github - https://github.com/scorrea03</p>
+</h4>

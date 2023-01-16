@@ -163,7 +163,7 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 <h2>Tais: </h2>
 <p> Linkdin - https://www.linkedin.com/in/taiscampos-webdev </p>
-<p>Github - https://github.com/TaisC468</p> </br>
+<p>Github - https://github.com/TaisC468</p>
 
 <h2>Tamires:</h2>
 <p>Linkdin - https://www.linkedin.com/in/tamires-porto </p>

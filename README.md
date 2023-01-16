@@ -45,46 +45,56 @@ Conferência Leste :
 A Conferência Leste da NBA conta com a Divisão do Atlântico, a Divisão Central e a Divisão Sudeste. As 15 equipes dessa conferência são divididas da seguinte forma:
 
 Divisão do Atlântico :
-Boston Celtics
-Brooklyn Nets
-New York Knicks
-Philadelphia 76ers
+
+Boston Celtics,
+Brooklyn Nets,
+New York Knicks,
+Philadelphia 76ers,
 Toronto Raptors
-Divisão Central
-Chicago Bulls
-Cleveland Cavaliers
-Detroit Pistons
-Indiana Pacers
+<hr>
+Divisão Central :
+
+Chicago Bulls,
+Cleveland Cavaliers,
+Detroit Pistons,
+Indiana Pacers,
 Milwaukee Bucks
-Divisão Sudeste
-Atlanta Hawks
-Charlotte Hornets
-Miami Heat
-Orlando Magic
+
+<hr>
+Divisão Sudeste :
+
+Atlanta Hawks,
+Charlotte Hornets,
+Miami Heat,
+Orlando Magic,
 Washington Wizards
 <br>
-
+<hr>
 Conferência Oeste :
 
 Na Conferência Oeste da NBA, estão as equipes da Divisão Noroeste, Divisão do Pacífico e Divisão Sudoeste.
 
-Divisão Noroeste
-Denver Nuggets
-Minnesota Timberwolves
-Portland Trail Blazers
-Oklahoma City Thunder
-Utah Jazz
-Divisão do Pacífico
-Golden State Warriors
-Los Angeles Clippers
-Los Angeles Lakers
-Phoenix Suns
+Divisão Noroeste :
+
+Denver Nuggets,
+Minnesota Timberwolves,
+Portland Trail Blazers,
+Oklahoma City Thunder,
+Utah Jazz,
+Divisão do Pacífico,
+Golden State Warriors,
+Los Angeles Clippers,
+Los Angeles Lakers,
+Phoenix Suns,
 Sacramento Kings
-Divisão Sudoeste
-Dallas Mavericks
-Houston Rockets
-Memphis Grizzlies
-New Orleans Pelicans
+
+<hr>
+Divisão Sudoeste :
+
+Dallas Mavericks,
+Houston Rockets,
+Memphis Grizzlies,
+New Orleans Pelicans,
 San Antonio Spurs
 
 <hr>

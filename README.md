@@ -30,7 +30,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
  <p> ❯ NBA (National Basketball Association) é considerada a principal
 liga de basquete do mundo. Foi fundada em junho de 1946, em Nova York
 com o nome BAA. </p> 
- <p> Ela é uma liga profissional de basquetebol dos Estados Unidos
+ <p> É uma liga profissional de basquetebol dos Estados Unidos
 e Canadá, com 30 franquias no total, sendo 29 equipes nos Estados Unidos e 1
 representando o Canadá, a Toronto Raptors.  </p>
 
@@ -80,10 +80,8 @@ Denver Nuggets,
 Minnesota Timberwolves,
 Portland Trail Blazers,
 Oklahoma City Thunder,
-Utah Jazz
-<hr>
-Divisão do Pacífico :
-
+Utah Jazz,
+Divisão do Pacífico,
 Golden State Warriors,
 Los Angeles Clippers,
 Los Angeles Lakers,
@@ -151,7 +149,7 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
  ![image](https://user-images.githubusercontent.com/112409145/212448776-325f9f7b-aaf9-41ad-9f80-3ca050cd1852.png)
 
-![Design sem nome (1)](https://user-images.githubusercontent.com/112409145/212680625-948c3af0-0394-4bc5-86e7-42b3b070ce5d.jpg)
+ ![image](https://user-images.githubusercontent.com/112409145/212448790-f381395d-6137-4ed7-8c75-d30291854482.png)
 
  ![image](https://user-images.githubusercontent.com/112409145/212448803-262782e4-2a73-4d4d-a782-45792b99eb63.png)
  
@@ -160,3 +158,25 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 <h1>🖥️⛹ Sobre a Equipe<h1>
 
 <img width=250% src="IMG/nbagp.png"/>
+
+Links:
+
+Tais:
+Linkdin - https://www.linkedin.com/in/taiscampos-webdev
+Github - https://github.com/TaisC468
+
+Tamires:
+Linkdin - https://www.linkedin.com/in/tamires-porto
+Github - https://github.com/Tamiresporto
+
+Ronald:
+Linkdin - https://www.linkedin.com/in/ronald-da-silva-b70752248
+Github - https://github.com/Ronald-02
+
+Suanny:
+Linkdin - https://www.linkedin.com/in/suannyrodriguessantos
+Github - https://github.com/suannyrodrigues
+
+Silvia:
+Linkdin - https://www.linkedin.com/in/silvia-corr%C3%AAa-b78197251
+Github - https://github.com/scorrea03
